@@ -1,0 +1,40 @@
+/* Write your CSS here */
+.latest-matches-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #0f172a;
+  width: 100%;
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.team-logo {
+  width: 160px;
+}
+
+.match-details-containe {
+  text-align: end;
+}
+
+.innings {
+  text-align: end;
+}
+
+.teamname {
+  text-align: end;
+}
+
+.mom {
+  text-align: end;
+}
+
+.playername {
+  text-align: end;
+}
+
+.umpire {
+  text-align: end;
+}

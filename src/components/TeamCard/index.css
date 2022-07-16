@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.list-item-home {
+  list-style: none;
+}
+
+.link {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.card {
+  display: flex;
+  flex-direction: row;
+  border: 1px solid #ffffff;
+  background-color: rgba(71, 85, 105, 0.8);
+  border-radius: 16px;
+  margin: 20px;
+  width: 400px;
+  height: 150px;
+  padding: 10px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.team-logo-home {
+  height: 100px;
+  max-width: 120px;
+}
+
+.team-name-home {
+  font-family: 'Bree Serif';
+  padding: 20px;
+  font-weight: 400;
+  align-self: flex-end;
+  text-align: center;
+  font-size: 26px;
+  color: #ffffff;
+}
